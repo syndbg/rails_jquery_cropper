@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* rails 4 or newer
+* rails >= 4.0.0
 * jquery-rails
 
 
@@ -12,7 +12,6 @@
 
 `gem 'rails_jquery_cropper'`
 
-
 ### Add to your `application.css`
 
 `*= require cropper`
@@ -21,7 +20,9 @@
 
 `//= require cropper`
 
-### bundle install !
+### `bundle install` !
+
+### jQuery Cropper usage is explained in http://fengyuanchen.github.io/cropper/
 
 
 ## Contributing
