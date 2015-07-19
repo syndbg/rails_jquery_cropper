@@ -1,0 +1,6 @@
+.cropper-example-3 {
+  width: 100%;
+}
+.cropper-example-3 > img {
+  max-width: 100%;
+}
